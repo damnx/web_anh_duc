@@ -1,0 +1,8 @@
+[25-Oct-2017 16:44:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Posts_model::count_posts() in /home/thuetaik/public_html/application/controllers/Products.php on line 95
+[25-Oct-2017 17:24:43 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to a member function render() on null in /home/thuetaik/public_html/application/views/frontend/signin.php on line 28
+[27-Oct-2017 15:43:52 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined function get_curl() in /home/thuetaik/public_html/application/controllers/Cardloaded.php on line 143
+[27-Oct-2017 16:03:50 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method My_libraies_string::get_curl() in /home/thuetaik/public_html/application/controllers/Cardloaded.php on line 143
+[27-Oct-2017 16:04:14 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to private method My_libraies_string::get_curl() from context 'Cardloaded' in /home/thuetaik/public_html/application/controllers/Cardloaded.php on line 143
+[27-Oct-2017 16:04:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to private method My_libraies_string::get_curl() from context 'Cardloaded' in /home/thuetaik/public_html/application/controllers/Cardloaded.php on line 143
+[27-Oct-2017 16:05:32 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to private method My_libraies_string::get_curl() from context 'Cardloaded' in /home/thuetaik/public_html/application/controllers/Cardloaded.php on line 143
+[01-Nov-2017 17:49:00 Asia/Ho_Chi_Minh] PHP Fatal error:  Call to undefined method Posts_model::category_posts() in /home/thuetaik/public_html/application/controllers/Single_post.php on line 15
